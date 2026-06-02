@@ -10,6 +10,5 @@ Imagine being able to see inside the minds of your students as you teach? How wo
 
 ## Acknowledgements
 Supported in part by NSF grants DUE-2135431 and DUE-2135438
-and Renewed Research Stay support from the Alexander von Hum-
-boldt Foundation.
+and Renewed Research Stay support from the Alexander von Humboldt Foundation.
 

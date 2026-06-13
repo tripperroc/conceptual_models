@@ -8,6 +8,10 @@ Imagine being able to see inside the minds of your students as you teach? How wo
 
 *Conceptual models* have the power to do that. Rather than submit fully written proofs, students submit figures, code, and illustrations explaining core concepts. These allow students to express problems using words, ideas, or images that are understandable to them.
 
+## Organization
+
+The "lessons" folder contains all weekly lessons developed by Christopher M. Homan for his "Gems" course.
+
 ## Acknowledgements
 Supported in part by NSF grants DUE-2135431 and DUE-2135438
 and Renewed Research Stay support from the Alexander von Humboldt Foundation.
